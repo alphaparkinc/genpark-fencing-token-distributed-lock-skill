@@ -1,0 +1,9 @@
+{
+  "name": "genpark-fencing-token-distributed-lock-skill",
+  "version": "1.0.1",
+  "description": "Distributed Mutual Exclusion Lock Sentinel with Monotonic Fencing Tokens to prevent split-brain dual-primary writes",
+  "author": "AlphaPark Inc",
+  "license": "Apache-2.0",
+  "main": "client.py",
+  "runtime": "python3"
+}
