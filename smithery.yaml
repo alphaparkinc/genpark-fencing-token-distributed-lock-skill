@@ -1,0 +1,10 @@
+startCommand:
+  type: stdio
+  config:
+    command: python
+    args:
+      - mcp_server.py
+name: genpark-fencing-token-distributed-lock-skill
+description: Distributed Mutual Exclusion Lock Sentinel with Monotonic Fencing Tokens to prevent split-brain dual-primary writes
+version: 1.0.1
+homepage: https://www.genpark.ai
